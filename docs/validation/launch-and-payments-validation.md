@@ -2,7 +2,7 @@
 
 October 24 to November 1, 2026 · Tests used synthetic requests or the owner's own transactions; no client data existed or was affected.
 
-## Website launch (October 27, 2026)
+## Redesign website launch (October 27, 2026)
 
 | Gate | Result |
 |---|---|
