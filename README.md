@@ -2,7 +2,7 @@
 
 Working evidence for the architecture, integration and AI governance work described on my résumé. It is published by Monarc Technology Group LLC, the practice I founded and lead.
 
-**Status, stated plainly:** Monarc was established in 2019 and launched its first website in 2023. The redesigned website launched on October 27, 2026, and live payments and automated invoicing went live on November 1, 2026. There are no client engagements yet: every test described here used synthetic records or my own transactions (including a real $1 payment and refund). Client systems, credentials, webhook addresses, record IDs, scoring weights and proprietary method detail are deliberately left out.
+**Status, stated plainly:** Monarc was established in 2019 and launched its first website in 2023. The redesigned website launched on October 27, 2026, and live payments and automated invoicing went live on November 1, 2026. Every test described here used synthetic records or my own transactions (including a real $1 payment and refund), so no client data appears in this repository. Client systems, credentials, webhook addresses, record IDs, scoring weights and proprietary method detail are deliberately left out.
 
 ## Where each claim is shown
 
